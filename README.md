@@ -10,19 +10,13 @@ Welcome to my collection of University Projects, organized by semesters. Each re
 
 ## Semester 1 Projects
 
-In my first semester, I focused on foundational subjects, honing my skills in programming basics and mathematical principles.
-
 🔗 [Link to Semester 1 Repository]
 
 ## Semester 2 Projects
 
-The second semester built upon the first, introducing more complex concepts in both programming and mathematics, alongside an introduction to software engineering principles.
-
 🔗 [Link to Semester 2 Repository]
 
 ## Semester 3 Projects
-
-By the third semester, I delved into advanced topics such as data structures, algorithms, and further explored software engineering methodologies, applying these concepts in more sophisticated projects.
 
 🔗 [Link to Semester 3 Repository]
 
