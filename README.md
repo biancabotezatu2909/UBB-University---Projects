@@ -10,7 +10,7 @@ Welcome to my collection of University Projects, organized by semesters. Each re
 
 ## Semester 1 Projects
 
-🔗 [Link to Semester 1 Repository]
+🔗 https://github.com/biancabotezatu2909/Semester-1
 
 ## Semester 2 Projects
 
