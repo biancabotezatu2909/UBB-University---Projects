@@ -1,7 +1,6 @@
 # University Projects Repositories
 
-Welcome to my collection of University Projects, organized by semesters. Each repository represents a semester's worth of learning, challenges, and accomplishments. Dive into each to explore the coursework, projects, and significant milestones I've achieved throughout my academic journey.
-
+Welcome to my collection of University Projects, organized by semesters. Each repository represents a semester's worth of learning, challenges, and accomplishments.
 ## 🎓 Repositories Overview
 
 - [Semester 1 Projects](#semester-1-projects)
