@@ -4,11 +4,11 @@ Welcome to my collection of University Projects, organized by semesters. Each re
 ##
 # 🔗 [🐶 Semester 1](https://github.com/biancabotezatu2909/Semester-1)
 ## 
-🔗 [🐱 Semester 2](https://github.com/biancabotezatu2909/Semester-2)
+# 🔗 [🐱 Semester 2](https://github.com/biancabotezatu2909/Semester-2)
 ## 
-🔗 [🐠 Semester 3](https://github.com/biancabotezatu2909/Semester-3)
+# 🔗 [🐠 Semester 3](https://github.com/biancabotezatu2909/Semester-3)
 ## 
-🔗 [🦋 Semester 4](https://github.com/biancabotezatu2909/Semester-3)
+# 🔗 [🦋 Semester 4](https://github.com/biancabotezatu2909/Semester-3)
 
 ---
 
