@@ -3,17 +3,12 @@
 Welcome to my collection of University Projects, organized by semesters. Each repository represents a semester's worth of learning, challenges, and accomplishments.
 ##
 🔗 [🐶 Semester 1](https://github.com/biancabotezatu2909/Semester-1)
-
-## 🐱 Semester 2 Projects
-
-🔗 [Semester 2](https://github.com/biancabotezatu2909/Semester-2)
-
-## 🐠 Semester 3 Projects
-
-🔗 [Semester 3](https://github.com/biancabotezatu2909/Semester-3)
-
-## 🦋 Semester 4 Projects
-🔗 [Semester 4](https://github.com/biancabotezatu2909/Semester-3)
+## 
+🔗 [🐱 Semester 2](https://github.com/biancabotezatu2909/Semester-2)
+## 
+🔗 [🐠 Semester 3](https://github.com/biancabotezatu2909/Semester-3)
+## 
+🔗 [🦋 Semester 4](https://github.com/biancabotezatu2909/Semester-3)
 
 ---
 
