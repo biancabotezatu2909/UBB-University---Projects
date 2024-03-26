@@ -12,7 +12,6 @@ Welcome to my collection of University Projects, organized by semesters. Each re
 
 ---
 
-### Navigating the Repositories
 
 Each repository is structured to reflect the courses taken during the semester. Within each course's folder, you'll find relevant projects, code snippets, and documentation that showcase the work done and the knowledge gained.
 
